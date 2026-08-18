@@ -1,7 +1,6 @@
 -- ============================================================
 -- Cadence Pricing Screen A/B Test — Analysis
 -- Author: Haleema Mahmood
--- Window: 1 June 2026 00:00:00 UTC – 30 June 2026 23:59:59 UTC
 -- ============================================================
 
 USE cadence_test;
