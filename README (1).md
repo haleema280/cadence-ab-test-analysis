@@ -1,8 +1,5 @@
 # Cadence Pricing Screen A/B Test — Verdict on Shipping Variant B
 
-**Author:** Haleema Mahmood
-**Test window:** 1 June 2026 00:00:00 UTC – 30 June 2026 23:59:59 UTC
-
 ## Headline number vs. reality
 
 The growth thread quoted B converting at ~11.9% vs. A's ~8.7% — a **+3.3pp** lift, overall. That number is correct on the raw data. It is also **misleading**, because it hides a broken experiment.
